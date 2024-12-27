@@ -15,6 +15,6 @@ This project automates the collection, storage, and visualization of Capital bik
  `3) Email Notifications`
 * Success or failure notifications are sent via email using the blastula package for real-time updates on data collection status.
 
-   `4) Shiny Dashboard`
+`4) Shiny Dashboard`
 * Provides interactive visualizations for: Bike station overvie, Geographic distribution of stations, Availability of bikes and e-bikes.
 

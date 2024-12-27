@@ -1,0 +1,10 @@
+file: bike_data.rds
+file_size: 37614
+pin_hash: f15dddaf7a1fe4ef
+type: rds
+title: Latest Bike station details from Capital Bikeshare API
+description: ~
+tags: ~
+urls: ~
+created: 20241210T135132Z
+api_version: 1
